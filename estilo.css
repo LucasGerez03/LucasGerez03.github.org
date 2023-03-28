@@ -1,0 +1,71 @@
+#LogoVikingo{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    border-radius: 20%;
+    box-shadow: 10px 5px 10px;
+    color: rgba(33, 121, 33, 0.7);
+   
+
+}
+hr{
+    border-color:  greenyellow;
+
+ }   
+
+.titulo{
+    border-color:rgb(224, 164, 35);
+    border-radius: 20px;
+    border-radius: 10%;
+    
+}
+
+.FondoVerde{
+    background-color: green;
+    border: 10px solid greenyellow;
+    border-radius: 40px;
+    border-radius: 1%;
+    
+}
+
+.Rellenar{
+    padding: 10px;
+    margin: 1px;
+    border: 10px solid rgb(81, 155, 81);
+    text-align: center;
+    border-radius: 1px;
+    border-radius: 10%;
+    border-left: 1px;
+    border-right: 1px;
+}
+
+h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    background:linear-gradient(20, 30, 50) 
+}
+h2{
+   font-family: 'PT Sans Narrow', sans-serif;
+   text-align: center;
+   }
+body{
+          /*si no se utiliza background-color: */
+   
+    
+    background-repeat: repeat ;            /*repite la imagen por toda la pantalla o deja una sola*/
+    background-size: cover;
+                                    /*background-position: left top; lo pone arriba a la izquierda se superpone con background-size: cover;*/
+    background-attachment: scroll ;      /*si lo deja fijo al fondo o se mueve con el scroll*/
+} 
+
+body{
+    background-color:rgba(50, 200, 50, .7);
+    margin: 190px 200px;
+}
+
+label{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+p{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
